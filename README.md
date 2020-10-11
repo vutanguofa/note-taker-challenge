@@ -15,4 +15,4 @@ This repo will allows the user to take notes and add them to a database. Even if
 
 ## Link to deployed application
 
-[Link to deployed application]()
+[Link to deployed application](https://note-taker-challenge.herokuapp.com/)
